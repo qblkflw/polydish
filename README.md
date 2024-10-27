@@ -2,7 +2,7 @@
 ## _The POLYgonal petri-DISH_
 
 Link to Visualiser:
-https://danielfamiyeh.github.io/polydish/src/
+https://qblkflw.github.io/polydish/src/
 
 POLYDISH simulates a virtual ecosystem that generates art by having organisms paths traced.
 It's a project based on an area of study known as genetic algorithms.
